@@ -4,7 +4,7 @@
 
 [![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojsatya&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsatya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsatya&layout=compact&hide=c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **manojsatya/manojsatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
